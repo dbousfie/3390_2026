@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Syllabus Query Bot</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Lato', sans-serif;
+      margin: 2rem;
+    }
+    #syllabusAssistantNotice {
+      max-width: 800px;
+      max-height: 80px;
+      overflow-y: auto;
+      margin-bottom: 0.75rem;
+      padding: 1rem;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+      line-height: 1.35;
+      font-size: 0.8rem;
+    }
+    #syllabusAssistantNotice p {
+      margin: 0 0 0.5rem 0;
+    }
+    #syllabusAssistantNotice h3 {
+      margin: 0 0 0.5rem 0;
+    }
+    #syllabusAssistantNotice h4 {
+      margin: 0.8rem 0 0.2rem 0;
+    }
+    textarea {
+      font-family: monospace;
+      width: 100%;
+      max-width: 600px;
+    }
+    #response {
+      white-space: pre-wrap;
+      margin-top: 1rem;
+      padding: 1rem;
+      background: #f4f4f4;
+      border: 1px solid #ccc;
+      max-width: 600px;
+    }
+    #feedback {
+      margin-top: 1rem;
+      max-width: 600px;
+      font-size: 0.95rem;
+    }
+    #feedback button {
+      font-size: 1rem;
+      margin-right: 0.5rem;
+      padding: 0.3rem 0.8rem;
+      cursor: pointer;
+      border: 1px solid #999;
+      background: white;
+    }
+    #feedback button:hover:not(:disabled) {
+      background: #eee;
+    }
+    #feedback button:disabled {
+      cursor: not-allowed;
+      opacity: 0.55;
+    }
+    #feedbackStatus {
+      display: block;
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <section id="syllabusAssistantNotice">
+    <h3>Letter of Information &amp; Consent &mdash; AI Syllabus Bot Study</h3>
+    <p><strong>Principal Investigator:</strong> Dan Bousfield, Department of Political Science, Western University (dbousfie@uwo.ca).</p>
+    <h4>1. Invitation and purpose</h4>
+    <p>You are invited to take part in a research study about how students use this optional AI &ldquo;syllabus assistant.&rdquo; The study examines what students ask, what those questions reveal about the course and syllabus, and how such tools may support learning, in order to improve teaching and contribute to scholarship on teaching and learning. Results may be published or presented. Taking part is your choice.</p>
+    <h4>2. What you will be asked to do</h4>
+    <p>Nothing beyond your normal, optional use of the assistant. When you ask a question it is sent to Western&rsquo;s secure AI service (Microsoft Azure OpenAI) to generate an answer, and your anonymous question, the answer, and any helpful/not-helpful rating are recorded and used for research. Your instructor also reviews these anonymous questions during the course &mdash; without seeing who asked them &mdash; to improve the syllabus and the assistant.</p>
+    <h4>3. Voluntary participation and withdrawal</h4>
+    <p>Participation is completely voluntary. Because questions are recorded anonymously and the assistant keeps no session or account, an individual question cannot be found or removed once submitted &mdash; so please decide before you ask. Your decision has no effect on your grades, your standing, or your relationship with the instructor, who cannot tell which students took part.</p>
+    <h4>4. Risks</h4>
+    <p>Risks are minimal. Please do not type identifying information (such as your name or student number). No information identifying you is sent with your question, and any identifying details entered by mistake are removed before analysis.</p>
+    <h4>5. Benefits</h4>
+    <p>Your questions may help improve the syllabus and materials while you are taking the course. The study may also contribute to knowledge about AI-supported learning. There is no other direct benefit to you.</p>
+    <h4>6. Confidentiality, storage and retention</h4>
+    <p>Only the question text, the answer, and any rating are recorded &mdash; no names, student numbers, IP addresses, or logins. Questions are processed by Western&rsquo;s secure AI service (under Western&rsquo;s institutional agreement) and stored in a Western Qualtrics survey. Data are exported from Qualtrics promptly after collection and removed from Qualtrics; exported data are stored on Western&rsquo;s secure, encrypted, access-restricted institutional storage (OneDrive for Western), accessible only to the researcher, for a minimum of seven (7) years after project completion and then securely destroyed. Access is limited to the research team; results are reported only in aggregate or de-identified form. Delegated institutional representatives of Western University and its Non-Medical Research Ethics Board may require access to your study-related records to monitor the conduct of the research in accordance with regulatory requirements.</p>
+    <h4>7. Compensation</h4>
+    <p>There is no compensation for participation.</p>
+    <h4>8. Conflict of interest</h4>
+    <p>The researcher is also your course instructor. Participation is anonymous and voluntary, and declining has no academic consequence; because interactions are anonymous, the instructor cannot tell who asked any question or who took part.</p>
+    <h4>9. Questions</h4>
+    <p>About the study: Dan Bousfield, dbousfie@uwo.ca. If you have any questions about your rights as a research participant or the conduct of this study, you may contact The Office of Human Research Ethics (519) 661-3036, 1-844-720-9816, email: ethics@uwo.ca. This office oversees the ethical conduct of research studies and is not part of the study team. Everything that you discuss will be kept confidential.</p>
+    <h4>10. Consent</h4>
+    <p>This study uses implied consent. By submitting a question to the assistant after reading this Letter of Information, you provide your implied consent for your anonymous interactions to be used in this research. You do not waive any legal rights by consenting to this study. No signature or other record of consent is collected, because the tool is anonymous by design. You may keep or print a copy of this page.</p>
+  </section>
+
+  <h2>Syllabus Query Page - for questions about the course and things relating to the syllabus</h2>
+  <form id="queryForm">
+    <textarea name="query" id="query" rows="5" cols="60" placeholder="Type your question here..."></textarea><br />
+    <button type="submit">Submit</button>
+  </form>
+
+  <h3>Response:</h3>
+  <h5>All queries and responses are anonymously recorded by Qualtrics for feedback, research, and improvement.</h5>
+  <pre id="response"></pre>
+
+  <div id="feedback" aria-live="polite">
+    <span>Was this helpful? </span>
+    <button type="button" data-feedback="helpful" disabled>Yes</button>
+    <button type="button" data-feedback="not_helpful" disabled>No</button>
+    <span id="feedbackStatus">Submit a question first; feedback buttons will activate after a response appears.</span>
+  </div>
+
+  <script>
+    // CHANGE THIS to your bot's Cloudflare worker URL
+    const WORKER_URL = "https://syllabusbot.danbousfield.workers.dev/";
+
+    const form = document.getElementById("queryForm");
+    const responseBox = document.getElementById("response");
+    const feedbackBox = document.getElementById("feedback");
+    const feedbackStatus = document.getElementById("feedbackStatus");
+    const feedbackButtons = feedbackBox.querySelectorAll("button[data-feedback]");
+
+    let lastQuery = "";
+    let lastResponse = "";
+
+    feedbackButtons.forEach((button) => {
+      button.addEventListener("click", () => sendFeedback(button.dataset.feedback));
+    });
+
+    function setFeedbackButtonsEnabled(enabled) {
+      feedbackButtons.forEach((button) => {
+        button.disabled = !enabled;
+      });
+    }
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      responseBox.textContent = "Loading...";
+      feedbackStatus.textContent = "";
+      setFeedbackButtonsEnabled(false);
+
+      const query = document.getElementById("query").value;
+      lastQuery = query;
+      lastResponse = "";
+
+      try {
+        const res = await fetch(WORKER_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ query }),
+        });
+        const text = await res.text();
+        responseBox.textContent = text;
+        lastResponse = text;
+        feedbackStatus.textContent = "";
+        setFeedbackButtonsEnabled(true);
+      } catch (err) {
+        responseBox.textContent = "Error contacting server.";
+        feedbackStatus.textContent = "Feedback is available after a response is received.";
+        setFeedbackButtonsEnabled(false);
+      }
+    });
+
+    async function sendFeedback(value) {
+      if (!lastQuery || !lastResponse) {
+        feedbackStatus.textContent = "Submit a question first; feedback is available after a response appears.";
+        return;
+      }
+
+      feedbackStatus.textContent = "Sending...";
+      setFeedbackButtonsEnabled(false);
+
+      try {
+        await fetch(WORKER_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            query: lastQuery,
+            responseText: lastResponse,
+            feedback: value,
+          }),
+        });
+        feedbackStatus.textContent = "Thanks for your feedback.";
+      } catch {
+        feedbackStatus.textContent = "Could not send feedback.";
+        setFeedbackButtonsEnabled(true);
+      }
+    }
+  </script>
+</body>
+</html>
