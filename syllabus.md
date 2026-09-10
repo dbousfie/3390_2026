@@ -160,12 +160,12 @@ reserve, or through the library search. AI tools <https://ai.uwo.ca/>
 +-----------------------+-------------------------+-------------------+
 | Essay 40% - Due at    | Written responses +     | Essay 40% - Due   |
 | the end of Week 9     | Peer assessment 20% -   | at the end of     |
-| (November 25th, 2026) | (250 words              | Week 9 (November  |
-|                       | minimum/week) +         | 25th, 2026)       |
+| (November 23rd, 2026) | (250 words              | Week 9 (November  |
+|                       | minimum/week) +         | 23rd, 2026)       |
 |                       | calculation assignment  |                   |
 |                       | due                     |                   |
 |                       |                         |                   |
-|                       | December 9th, 2026.     |                   |
+|                       | December 8th, 2026.     |                   |
 +-----------------------+-------------------------+-------------------+
 | Exam 20% - online     | Exam 40% - online exam  | Written           |
 | exam during exam      | during the exam period  | responses + Peer  |
@@ -174,7 +174,7 @@ reserve, or through the library search. AI tools <https://ai.uwo.ca/>
 |                       |                         | minimum/week) +   |
 |                       |                         | calculation       |
 |                       |                         | assignment due    |
-|                       |                         | December 9th,     |
+|                       |                         | December 8th,     |
 |                       |                         | 2026.             |
 +-----------------------+-------------------------+-------------------+
 
@@ -686,12 +686,13 @@ engage with the content of the movie for its use in our understand of
 the course material, as well as base arguments in academic research and
 debates. You should assess the media for its arguments about technology,
 and the viability of the arguments given the academic debates on the
-issue. The assignment should be a minimum of 1000 words (maximum of 1500
-words), in proper essay format (with title page and bibliography) and
-have a minimum of 4 academic sources, drawing primarily from course
-readings. All written work must use proper essay paragraph structure and
-conform to the 'criteria for the evaluation of written assignments' in
-the course syllabus or it cannot achieve full grades.
+issue. The assignment should be a minimum of 1000 words (maximum of 1250
+words +/-10% strictly enforced), in proper essay format (with title page
+and bibliography) and have a minimum of 4 academic sources, drawing
+primarily from course readings. All written work must use proper essay
+paragraph structure and conform to the 'criteria for the evaluation of
+written assignments' in the course syllabus or it cannot achieve full
+grades.
 
 Option C: AI or Anti-AI assignment proposal
 
@@ -1284,6 +1285,11 @@ the unpredictability and unreliability of current generative technology.
 No personal or individual identifiers will ever be included in the
 assessment of material by any generative technology.
 
+Submissions in this course may be examined for AI watermarking using
+anonymized samples processed on campus in accordance with University
+regulations. Watermark detection will not be used to determine
+unauthorized AI use but may indicate such use.
+
 +----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 | **Example of   | **Why is this Allowed?**                                                                                                 | **Things to Keep in Mind**                                                        |
 | an Allowable   |                                                                                                                          |                                                                                   |
@@ -1872,6 +1878,21 @@ AI concept of the week: what are the ethical considerations when we use
 AI?
 
 <https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/>
+
+**Duplication of work**
+
+Undergraduate students who submit similar assignments on closely related
+topics in two different
+
+courses must obtain the consent of [both]{.underline} instructors prior
+to the submission of the assignment. If prior approval is not obtained,
+each instructor reserves the right not to accept the assignment.
+
+**Grading and grade adjustments**
+
+The Department of Political Science has a policy that undergraduate
+final course grades will only be rounded to the next whole grade if they
+end at 0.5 or higher; otherwise, they will be rounded down.
 
 APPENDIX TO UNDERGRADUATE COURSE OUTLINES DEPARTMENT OF POLITICAL
 SCIENCE
