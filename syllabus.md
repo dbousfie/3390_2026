@@ -1937,3 +1937,29 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 Question: can I do the same media as someone else for the media assessment even if they've signed up for the same movie
 Answer: yes there's no restrictions on the number of students that can do the same media
+
+Q: What is the CEL?
+A: community engaged learning
+Q: Do I have to complete the CEL?
+A: Community engaged learning is optional
+Q: When is the term assignment due?
+A: there are different dates, written assignments are firm, recorded presentations are flexible
+Q: Can I join the class online?
+A: there is no synchronous online option but the audio and transcript are available after class and there are pre-recorded videos
+Q: What will the first lecture cover? Will it include a syllabus review?
+A: it covered content as well but yes there was a syllabus review
+Q: How do we sign in for attendance each class?
+A: there will be a QR code in class it will not be revealed until class going forward
+Q: Is there an in-person or online attendance sign-in sheet?
+A: it is in person the QR code is revealed in the classroom
+Q: Can I miss two weeks of the 250-word responses and still choose Option C?
+A: you need 10 to hit the Senate requirements for an essay course
+Q: Do I need to complete both the 250-word response and the annotated notes, or can I complete only one?
+A: most weeks will involve a in-person group work assignment if you do that, only one of the hero assessment or 250 word responses needed
+Q: Where do we submit the HERO analysis?
+A: in brightspace under assessments, assignments
+Q: Should the HERO analysis be submitted under Written Participation in Brightspace or through the Dropbox?
+A: either is acceptable
+Q: If I completed attendance and annotations for Week 1, do I need to complete another response for Tuesday’s class, or is only one required after Week 6?
+A: for week one you were only required to do The annotation
+
