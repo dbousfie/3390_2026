@@ -1934,3 +1934,6 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     [https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples](https://web.archive.org/web/20210413194856/https:/studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples)
 
 [^2]: From U-M Faculty Member Alisse Portnoy, English.
+
+Question: can I do the same media as someone else for the media assessment even if they've signed up for the same movie
+Answer: yes there's no restrictions on the number of students that can do the same media
