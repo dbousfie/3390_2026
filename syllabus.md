@@ -1962,4 +1962,21 @@ Q: Should the HERO analysis be submitted under Written Participation in Brightsp
 A: either is acceptable
 Q: If I completed attendance and annotations for Week 1, do I need to complete another response for Tuesday’s class, or is only one required after Week 6?
 A: for week one you were only required to do The annotation
+Q: Hello Professor Bousfield,
+I just wanted to ask for some clarification regarding the written response. I understand that the reflective analysis has a minimum of 250 words, but is there a maximum word count or recommended length? I imagine that, since it is a reflective analysis, the goal is to be relatively concise while still developing an insightful and academically rigorous argument.
+I also wanted to clarify the role of the contemporary issue in the analysis. I understand that we are expected to connect a contemporary issue to the course material, but should the contemporary issue be supported by a peer-reviewed academic source, or is it appropriate to use a current news event or article?
+Additionally, the instructions state that we must use more than one course reading and may use an outside source or link. Does the outside source refer primarily to a news source used to establish the contemporary issue, or could it also be another peer-reviewed academic source?
+Finally, I was wondering whether we are still able to complete and submit the participation activities from previous weeks if we did not complete them at the time.
+Thank you for your clarification!
+
+A: Hi
+
+It should be around 250 words I'm not strict on it but I also don't want to start receiving 500 and 700 word responses, it defeats the purpose of being a short concise paragraph exercise.
+
+The Contemporary issue can be addressed either through a news article or an academic Source, ideally academic Source but many new events simply don't have a peer-reviewed source available yet. You can use any article from the course or from outside the course as long as it has sufficient relevance and establishes a clear foundation for the claim.
+
+Yes you can complete previous weeks work I normally only allow one or two weeks at a time though I don't want people on week 12 submitting 12 weeks of work. If you are within a week or so of the deadline I'm happy to have you submit over email.
+
+Let me know if you have any other questions
+Dan
 
