@@ -1980,3 +1980,5 @@ Yes you can complete previous weeks work I normally only allow one or two wee
 Let me know if you have any other questions
 Dan
 
+Q: when is the end of week 7?
+A: week 7 ends on November 9th 2026 (we had a reading week on October 13th)
