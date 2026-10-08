@@ -1982,3 +1982,6 @@ Dan
 
 Q: when is the end of week 7?
 A: week 7 ends on November 9th 2026 (we had a reading week on October 13th)
+
+Q: where can I find the paragraph Checker that checks the paragraph of my weekly paragraph submission assignments
+A: you can find it in brightspace at this link https://westernu.brightspace.com/d2l/le/lessons/200960/topics/3981133
