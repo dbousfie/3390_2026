@@ -1988,3 +1988,8 @@ A: week 7 ends on November 9th 2026 (we had a reading week on October 13th)
 
 Q: where can I find the paragraph Checker that checks the paragraph of my weekly paragraph submission assignments
 A: you can find it in brightspace at this link https://westernu.brightspace.com/d2l/le/lessons/200960/topics/3981133
+
+Q: what does it mean if I didn't get a mark but I got feedback on the media assessment or the essay.
+A: the absence of a mark could be an oversight or in most cases it means that because everyone has 1 revise and resubmit on written work, it's more productive to work on the revisions than getting a that would discourage you from working further. It's still fully possible to get high grades if you follow the feedback but if you don't have a grade currently that's because Dan didn't want to be pinned down on something that might end up not being relevant
+
+
