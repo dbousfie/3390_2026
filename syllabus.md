@@ -730,7 +730,7 @@ Essay, Policy Analysis OR AI or Anti-AI assignment (part 2) (If Chosen)
 #### **Option A: Traditional Essay or Policy Analysis**
 
 The final draft of the paper should be 8 pages (2000 words) in length
-(plus or minus 10% maximum) (excluding the bibliography) and must be
+(plus or minus 10% maximum)(update November 15, 2026 – students who complete the written responses or the written media assessment should aim for a paper of 1500 words in length +/- 10%) (excluding the bibliography) and must be
 presented in proper scholarly format. Students will write a major
 research paper (based primarily on academic sources) on a topic of their
 choice, to be arrived at in consultation with the instructor. Essay
