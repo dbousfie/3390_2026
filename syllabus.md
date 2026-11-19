@@ -1992,4 +1992,41 @@ A: you can find it in brightspace at this link https://westernu.brightspace.com/
 Q: what does it mean if I didn't get a mark but I got feedback on the media assessment or the essay.
 A: the absence of a mark could be an oversight or in most cases it means that because everyone has 1 revise and resubmit on written work, it's more productive to work on the revisions than getting a that would discourage you from working further. It's still fully possible to get high grades if you follow the feedback but if you don't have a grade currently that's because Dan didn't want to be pinned down on something that might end up not being relevant
 
+Notice dec 19th 
+
+I think everyone has their media assessments back. Revise and resubmits must be follow the instructions, and are due by the time you write your exam (or December 10th if you are not writing the exam).
+
+If you need an essay extension, you must email me with the new expected date of submission. No extensions past December 10.
+
+For people doing Option 1 (essay & exam) they will have the opportunity to revise and resubmit because they have an exam date that is later than the beginning of the exam period (December 10).
+
+For people doing Option 3 (essay only), I cannot guarantee that they will get their paper back in order to revise and resubmit. As long as I receive it before December 10th, I will just mark it as normal.
+
+Please reach out if you have any questions or concerns,
+
+Revise and resubmit instructions below
+Revise and resubmit
+Everyone in all of my third and fourth year year courses has one 'revise and resubmit' on every written assignment (not weekly written participation). I do this as practice because that's how my papers and chapters are reviewed by editors, and it's a primary value of the university experience, editing and revising.
+
+Written assignments in this course are able to be revised and resubmitted once and once only.
+
+If you want to use this as a draft option, you can hand in your written assignment early.
+
+In most cases, you will want to revise and resubmit the substantial assignments first, such as an essay.
+
+For students submitting on time: I follow a first-in-first-out essay submission system. If you submit your essay on time I will aspire to have it back as soon as possible.
+
+For students submitting with an approved extension: it becomes less likely that you will have an opportunity to revise and resubmit if your extension is too late. Please keep that in mind.
+
+Resubmission rules
+1. You MUST track changes. Resubmissions can only result in a higher grade, as long as you track changes. If you do not track changes I will have to remark your paper from scratch and your grade is no longer guaranteed to improve. We use the online version of Word - we can track changes with --'review'-> 'track changes'--> 'track changes for everyone'
+
+2. You must include a grade goal for your revised paper. The grade goal lets me assess the extent to which you have taken my comments and feedback and made sufficient changes to achieve your grade goal.
+
+3. You will not receive a second set of comments on the revisions only a revised grade. This is standard practice in publishing as well (revisions are sufficient and they publish or revisions are insufficient and they reject).
+
+You can not wholesale rewrite the assignment or replace entire paragraphs, the tracked changes must be specific, detailed and replying to my comments. If I resubmit a brand new paper to a journal after I get comments on the first version it will be summarily rejected.
+
+
+
 
