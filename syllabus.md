@@ -273,6 +273,8 @@ throughout the work, but it cannot serve as a basis of an evidentiary
 foundation of your claims (i.e. you can include it, but it won't be
 counted as evidentiary argument).
 
+Submissions that do not meet the specified paragraph structure requirements will be designated 'not acceptable' and returned with feedback identifying the required revisions. Students must revise and resubmit their work until the paragraph structure requirements are satisfied. Only submissions meeting these requirements will be accepted for grading. Assignments that remain unacceptable after the final resubmission deadline will receive a grade of zero.  
+
 ## General information about missed coursework
 
 Attendance and Scheduled Participation Requirements
@@ -315,7 +317,7 @@ normally be considered a substantial absence. A substantial absence may
 prevent a student from completing the participation-based,
 peer-assessment, or in-class requirements of the course. In such cases,
 the student may be unable to receive credit for affected components,
-even where other written work has been submitted.
+even where other written work has been submitted, with a maximum grade of 70.
 
 Students must familiarize themselves with the *University Policy on
 Academic Consideration -- Undergraduate Students in First Entry
